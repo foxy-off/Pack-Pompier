@@ -1,0 +1,22 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>bh1_30.ymap</Item>
+    <Item>bh1_30_strm_0.ymap</Item>
+    <Item>bh1_rd_strm_2.ymap</Item>
+    <Item>station24.ymap</Item>
+    <Item>station24_mlo.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>station24.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames>
+    <Item>nodes524.ynd</Item>
+  </YndFilenames>
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

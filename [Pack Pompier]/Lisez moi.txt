@@ -1,0 +1,7 @@
+Pour vous epargner du travail je vous ai mis ce qu'il y a a start : 
+
+ensure station24
+ensure firescript
+ensure esx_firejob
+ensure Camion Pompier
+ensure Megane 3  
